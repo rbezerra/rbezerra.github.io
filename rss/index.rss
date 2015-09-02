@@ -1,0 +1,5 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>R. Bezerra</title><description>Desenvolvimento Web e Outras Paradas ;)</description><link>http://localhost:2368/</link><generator>Ghost 0.6</generator><lastBuildDate>Wed, 02 Sep 2015 02:17:42 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Hello World!</title><description>&lt;p&gt;Por que uma hora eu ia ter que começar isso aqui&lt;/p&gt;
+
+&lt;p&gt;;)&lt;/p&gt;</description><link>http://localhost:2368/hello-world/</link><guid isPermaLink="false">5c0b45ca-bea4-49f9-9678-befe3418b07d</guid><dc:creator>Ramon Bezerra</dc:creator><pubDate>Wed, 02 Sep 2015 02:13:46 GMT</pubDate><content:encoded>&lt;p&gt;Por que uma hora eu ia ter que começar isso aqui&lt;/p&gt;
+
+&lt;p&gt;;)&lt;/p&gt;</content:encoded></item></channel></rss>
