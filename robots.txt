@@ -1,3 +1,7 @@
 User-agent: *
+<<<<<<< HEAD
 Sitemap: http://localhost:2368/sitemap.xml
 Disallow: /ghost/
+=======
+Disallow: /ghost/
+>>>>>>> a97147d1e5fd2a5723fb3142fc29b2260ead7c2e
